@@ -18,12 +18,14 @@ body {
     height: 600px;
     background: white;
     box-shadow: 0 30px 50px rgba(0, 0, 0, 0.2);
+    border-radius:15px;
 }
 
 .slider {
     position: relative;
     height: 100%;
     overflow: hidden;
+    border-radius:15px;
 }
 
 .slider .item {
